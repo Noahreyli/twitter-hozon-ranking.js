@@ -6,7 +6,7 @@
 
 ### 対応サイト
 
-[https://www.twidouga.net/](https://www.twidouga.net/ranking_t.php)  
+[https://twidouga.net/](https://twidouga.net/ranking_t.php)  
 [https://twivideo.net/](https://twivideo.net/?ranking)  
 [https://twiigle.com/](https://twiigle.com/)  
 [https://erozine.jp/twitter](https://erozine.jp/twitter)  
