@@ -1,10 +1,10 @@
 // ==UserScript==
 // @match        *://twihub.me/*
-// @match        *://twidouga.net/*
+// @match        *://www.twidouga.net/*
 // @match        *://twivideo.net/*
 // @match        *://twiigle.com/*
 // @match        *://twicoco.com/*
-// @match        *://twidou.link/*
+// @match        *://www.twidou.link/*
 // @match        *://erozine.jp/twitter*
 // @updateURL    https://raw.githubusercontent.com/pink-gay/twitter-hozon-ranking.js/main/main.js
 // @downloadURL  https://raw.githubusercontent.com/pink-gay/twitter-hozon-ranking.js/main/main.js
